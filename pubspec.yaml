@@ -1,9 +1,9 @@
 name: left_pad
 description: a really powerful api to add padding to strings
-version: 1.0.0
 homepage: https://github.com/chrisdlangham/left_pad
 repository: https://github.com/chrisdlangham/left_pad
 issue_tracker: https://github.com/chrisdlangham/left_pad/issues
+version: 1.0.0
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
